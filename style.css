@@ -1,0 +1,60 @@
+.class1 {
+color: Green;
+font-family: Comic Sans MS;
+}
+
+.class2 {
+color: Green;
+font-family: Comic Sans MS;
+text-align: center;
+}
+
+.body {
+background-color: lightgray;
+}
+
+a {
+color: white;
+font-size: 20px;
+}
+
+td a {
+color: green;
+}
+
+.flex-box {
+  display: flex;
+  margin: 10px;
+}
+
+.flex-box div {
+  background: MediumSeaGreen;
+  width: 350px;
+  height: 50px;
+}
+
+.formstyle {
+font-family: impact;
+color: red;
+}
+
+#box1 {
+flex-direction: row;
+}
+
+#tablestyle1 {
+border: 5px solid green;
+margin: 5 px;
+padding: 5 px;
+color: green;
+font-family: Comic Sans MS;
+}
+
+#centeralign {
+text-align: center;
+}
+
+td {
+color: green;
+}
+
